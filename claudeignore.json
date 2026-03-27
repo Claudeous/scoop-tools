@@ -1,0 +1,22 @@
+{
+    "version": "0.0.2-alpha",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Claudeous/claudeignore/releases/download/v0.0.2-alpha/claudeignore_windows_amd64.zip",
+            "bin": [
+                "claudeignore.exe"
+            ],
+            "hash": "57fb0f0d59cbb7f08907cc8bedc88b9970549fa8f087f72acc248c3de809b560"
+        },
+        "arm64": {
+            "url": "https://github.com/Claudeous/claudeignore/releases/download/v0.0.2-alpha/claudeignore_windows_arm64.zip",
+            "bin": [
+                "claudeignore.exe"
+            ],
+            "hash": "5b4b30b5128583726b6bad3e2f555cdcb5769353e7058067364be6b29efcd48d"
+        }
+    },
+    "homepage": "https://github.com/Claudeous/claudeignore",
+    "license": "GPL-3.0",
+    "description": "Sync gitignore rules to Claude Code sandbox"
+}
