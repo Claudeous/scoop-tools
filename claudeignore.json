@@ -1,19 +1,19 @@
 {
-    "version": "0.1.2-alpha",
+    "version": "0.1.3-alpha",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Claudeous/claudeignore/releases/download/v0.1.2-alpha/claudeignore_windows_amd64.zip",
+            "url": "https://github.com/Claudeous/claudeignore/releases/download/v0.1.3-alpha/claudeignore_windows_amd64.zip",
             "bin": [
                 "claudeignore.exe"
             ],
-            "hash": "e94e585e2399781ba502d7ad383ae7c173867d83dfc281dbdc2fd275e0467ec7"
+            "hash": "57d78897e06a3986489623f112a70dcb6d35f805eefa19cb2d769413c1ba5f97"
         },
         "arm64": {
-            "url": "https://github.com/Claudeous/claudeignore/releases/download/v0.1.2-alpha/claudeignore_windows_arm64.zip",
+            "url": "https://github.com/Claudeous/claudeignore/releases/download/v0.1.3-alpha/claudeignore_windows_arm64.zip",
             "bin": [
                 "claudeignore.exe"
             ],
-            "hash": "a797094f08f92490f1760a8509766467023237938d3e0daf8c13f8a7b2469913"
+            "hash": "f22ddf1965b134fb2fbf093b77b895bf1dc27e21a7f92ebfa12e603018b40097"
         }
     },
     "homepage": "https://github.com/Claudeous/claudeignore",
